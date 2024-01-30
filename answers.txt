@@ -1,0 +1,1 @@
+1. In a non-agile project, the Product Owner would be similar to a CEO. The role is to create the vision for the software and thinks of the steps to achieve the final product. It's necessary to have a product owner because they guide the way to finishing
