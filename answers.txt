@@ -1,4 +1,4 @@
 1. In a non-agile project, the Product Owner would be similar to a CEO. The role is to create the vision for the software and thinks of the steps to achieve the final product. It's necessary to have a product owner because they guide the way to finishing
 2. The scrum leader is the leader who supports the team and helps the product owner with his vision. The product owner is the main visionary and thinks of the steps to finish the product.
 3. Planning meeting is the start of the sprint and assigns stories. Standup meeting happens everyday and discusses completed and todo tasks. Retrospective meeting talks about completed work and closes sprint
-
+4. An epic is a large body of work that can be broken down into stories. A story is a software requirement that is under the epic. A bug is a tiny problem that affects function. Task issue is just general work that needs to be done
